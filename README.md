@@ -5,4 +5,5 @@ Network scanning helps to detect all the active hosts on a network and maps them
 Syntax:
 
 python3 NetorkScanner.py IP
+
 python3 NetorkScanner.py IP/CIDR
